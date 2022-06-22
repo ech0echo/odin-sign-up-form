@@ -1,3 +1,3 @@
 # odin-sign-up-form
-test test test
-<p>test</p>
+
+Sample sign up form page
