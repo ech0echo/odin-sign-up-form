@@ -1,3 +1,3 @@
 # odin-sign-up-form
 
-Sample sign up form page
+Sample sign up form page.
